@@ -6,8 +6,19 @@
 
       font-family:Georgia, 'Times New Roman', Times, serif;
 
-      { img#ring
-        width: 350px        
+      {
+        img#ring
+        width: 350       
+      }
+
+      {
+        img#sky
+        width: 350
+      }
+
+      {
+        img#family
+        width: 350
       }
 
 
