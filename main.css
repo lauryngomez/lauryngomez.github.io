@@ -6,17 +6,23 @@
 
       font-family:Georgia, 'Times New Roman', Times, serif;
   }
-  img#ring{
+      img#zagster{
         width: 350px;
       
       }
 
-      img#sky{
+      img#travel{
         width: 350px;
 
       }
 
-      img#family{
+      img#about{
         width: 350px;
+
+      }
+
+      img#sisters{
+        width: 1100px;
+        height: 300px;
 
       }
